@@ -39,7 +39,6 @@ from.models import Car,CarAdmin
 admin.site.register(Car,CarAdmin)
 ```
 
-Include Your program
 
 ## OUTPUT
 ![alt text](<exp2/Screenshot (2).png>)
